@@ -1,0 +1,11 @@
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\bin\Debug\netcoreapp2.0\Libraria.deps.json
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\bin\Debug\netcoreapp2.0\Libraria.runtimeconfig.json
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\bin\Debug\netcoreapp2.0\Libraria.runtimeconfig.dev.json
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\bin\Debug\netcoreapp2.0\Libraria.dll
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\bin\Debug\netcoreapp2.0\Libraria.pdb
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.csprojResolveAssemblyReference.cache
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.csproj.CoreCompileInputs.cache
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.AssemblyInfoInputs.cache
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.AssemblyInfo.cs
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.dll
+C:\Users\leox\Documents\workspace\LibarayManager\backend\Libraria\Libraria\obj\Debug\netcoreapp2.0\Libraria.pdb
