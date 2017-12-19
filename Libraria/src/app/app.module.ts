@@ -7,16 +7,20 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 
 import { BaseServicesService } from  './Services/base-services.service';
+import { AppRoutingModule } from './/app-routing.module';
+import { DashboardComponentComponent } from './dashboard-component/dashboard-component.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    LoginComponent
+    LoginComponent,
+    DashboardComponentComponent
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule
   ],
   providers: [BaseServicesService],
   bootstrap: [AppComponent]

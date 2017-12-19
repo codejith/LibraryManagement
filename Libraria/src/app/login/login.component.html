@@ -1,5 +1,5 @@
 
-<form (submit)="login(username.value, password.value)">
+<form>
   <div class="form-group">
     <label for="exampleInputEmail1">Email address</label>
     <input type="email" class="form-control"  id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" #username>
@@ -14,5 +14,5 @@
       Check me out
     </label>
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <button type="button" (click)="login(username.value, password.value)" class="btn btn-primary">Submit</button>
 </form>
